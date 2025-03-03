@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @xSpiriTxx
-- 👀 I’m interested in Angular, Java and C#.
-- 🌱 I’m currently learning JSF and .NET Webapps.
-- 📫 You can reach me via Twitter @MatGassner
+.NET backend dev
